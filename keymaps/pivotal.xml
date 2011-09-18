@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="pivotal" parent="Default for Mac OS X">
   <action id="$Copy">
-    <keyboard-shortcut first-keystroke="windows C" />
-    <keyboard-shortcut first-keystroke="windows INSERT" />
+    <keyboard-shortcut first-keystroke="WINDOWS C" />
+    <keyboard-shortcut first-keystroke="WINDOWS INSERT" />
     <keyboard-shortcut first-keystroke="control C" />
   </action>
   <action id="$Cut">
-    <keyboard-shortcut first-keystroke="windows X" />
+    <keyboard-shortcut first-keystroke="WINDOWS X" />
     <keyboard-shortcut first-keystroke="shift DELETE" />
     <keyboard-shortcut first-keystroke="control X" />
   </action>
@@ -15,32 +15,32 @@
     <keyboard-shortcut first-keystroke="control D" />
   </action>
   <action id="$Paste">
-    <keyboard-shortcut first-keystroke="windows V" />
+    <keyboard-shortcut first-keystroke="WINDOWS V" />
     <keyboard-shortcut first-keystroke="shift INSERT" />
     <keyboard-shortcut first-keystroke="control V" />
   </action>
   <action id="ActivateChangesToolWindow">
-    <keyboard-shortcut first-keystroke="windows 9" />
+    <keyboard-shortcut first-keystroke="WINDOWS 9" />
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="ActivateFindToolWindow">
-    <keyboard-shortcut first-keystroke="windows 3" />
+    <keyboard-shortcut first-keystroke="WINDOWS 3" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="windows 1" />
+    <keyboard-shortcut first-keystroke="WINDOWS 1" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="windows 4" />
+    <keyboard-shortcut first-keystroke="WINDOWS 4" />
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="windows 7" />
+    <keyboard-shortcut first-keystroke="WINDOWS 7" />
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="windows 6" />
+    <keyboard-shortcut first-keystroke="WINDOWS 6" />
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="Back">
@@ -50,7 +50,7 @@
     <keyboard-shortcut first-keystroke="alt A" />
   </action>
   <action id="ChooseDebugConfiguration">
-    <keyboard-shortcut first-keystroke="windows alt F8" />
+    <keyboard-shortcut first-keystroke="WINDOWS alt F8" />
   </action>
   <action id="ChooseRunConfiguration" />
   <action id="CloneElement">
@@ -58,32 +58,32 @@
     <keyboard-shortcut first-keystroke="shift F5" />
   </action>
   <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="windows ESCAPE" />
+    <keyboard-shortcut first-keystroke="WINDOWS ESCAPE" />
   </action>
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="windows alt W" />
+    <keyboard-shortcut first-keystroke="WINDOWS alt W" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="shift windows W" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS W" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="control SPACE" />
     <keyboard-shortcut first-keystroke="alt ESCAPE" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="windows SLASH" />
-    <keyboard-shortcut first-keystroke="windows DIVIDE" />
+    <keyboard-shortcut first-keystroke="WINDOWS SLASH" />
+    <keyboard-shortcut first-keystroke="WINDOWS DIVIDE" />
     <keyboard-shortcut first-keystroke="control SLASH" />
   </action>
   <action id="CopyPaths">
-    <keyboard-shortcut first-keystroke="shift windows C" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS C" />
     <keyboard-shortcut first-keystroke="shift control C" />
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift F9" />
   </action>
   <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="shift windows alt F8" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS alt F8" />
     <keyboard-shortcut first-keystroke="shift control F9" />
   </action>
   <action id="Editor Copy">
@@ -108,22 +108,22 @@
     <keyboard-shortcut first-keystroke="DELETE" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="windows Y" />
+    <keyboard-shortcut first-keystroke="WINDOWS Y" />
     <keyboard-shortcut first-keystroke="shift control K" />
     <keyboard-shortcut first-keystroke="control Y" />
   </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="TAB" />
-    <keyboard-shortcut first-keystroke="windows CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="WINDOWS CLOSE_BRACKET" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="END" />
-    <keyboard-shortcut first-keystroke="windows RIGHT" />
+    <keyboard-shortcut first-keystroke="WINDOWS RIGHT" />
     <keyboard-shortcut first-keystroke="control E" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="HOME" />
-    <keyboard-shortcut first-keystroke="windows LEFT" />
+    <keyboard-shortcut first-keystroke="WINDOWS LEFT" />
     <keyboard-shortcut first-keystroke="control A" />
   </action>
   <action id="EditorNextWord">
@@ -149,41 +149,41 @@
     <keyboard-shortcut first-keystroke="control UP" />
   </action>
   <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="windows END" />
-    <keyboard-shortcut first-keystroke="windows DOWN" />
+    <keyboard-shortcut first-keystroke="WINDOWS END" />
+    <keyboard-shortcut first-keystroke="WINDOWS DOWN" />
   </action>
   <action id="EditorTextEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift windows END" />
-    <keyboard-shortcut first-keystroke="shift windows DOWN" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS END" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS DOWN" />
   </action>
   <action id="EditorTextStart">
-    <keyboard-shortcut first-keystroke="windows HOME" />
-    <keyboard-shortcut first-keystroke="windows UP" />
+    <keyboard-shortcut first-keystroke="WINDOWS HOME" />
+    <keyboard-shortcut first-keystroke="WINDOWS UP" />
   </action>
   <action id="EditorTextStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift windows HOME" />
-    <keyboard-shortcut first-keystroke="shift windows UP" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS HOME" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS UP" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift TAB" />
-    <keyboard-shortcut first-keystroke="windows OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="WINDOWS OPEN_BRACKET" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="F3" />
     <keyboard-shortcut first-keystroke="control L" />
-    <keyboard-shortcut first-keystroke="windows G" />
+    <keyboard-shortcut first-keystroke="WINDOWS G" />
   </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift F3" />
     <keyboard-shortcut first-keystroke="shift control L" />
-    <keyboard-shortcut first-keystroke="shift windows G" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS G" />
   </action>
   <action id="FindWordAtCaret">
-    <keyboard-shortcut first-keystroke="windows F3" />
+    <keyboard-shortcut first-keystroke="WINDOWS F3" />
     <keyboard-shortcut first-keystroke="control F3" />
   </action>
   <action id="ForceStepOver">
-    <keyboard-shortcut first-keystroke="shift windows F10" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS F10" />
     <keyboard-shortcut first-keystroke="shift alt F8" />
   </action>
   <action id="Forward">
@@ -194,21 +194,21 @@
   </action>
   <action id="GotoClass" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="windows B" />
-    <mouse-shortcut keystroke="windows button1" />
+    <keyboard-shortcut first-keystroke="WINDOWS B" />
+    <mouse-shortcut keystroke="WINDOWS button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="control B" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift control N" />
-    <keyboard-shortcut first-keystroke="shift windows N" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS N" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="windows L" />
+    <keyboard-shortcut first-keystroke="WINDOWS L" />
     <keyboard-shortcut first-keystroke="control G" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift windows alt N" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS alt N" />
     <keyboard-shortcut first-keystroke="control N" />
   </action>
   <action id="MethodDown">
@@ -219,52 +219,52 @@
     <keyboard-shortcut first-keystroke="alt UP" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="control windows alt RIGHT" />
-    <keyboard-shortcut first-keystroke="control windows alt LEFT" />
+    <keyboard-shortcut first-keystroke="control WINDOWS alt RIGHT" />
+    <keyboard-shortcut first-keystroke="control WINDOWS alt LEFT" />
   </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift control DOWN" />
-    <keyboard-shortcut first-keystroke="control windows DOWN" />
+    <keyboard-shortcut first-keystroke="control WINDOWS DOWN" />
   </action>
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift control UP" />
-    <keyboard-shortcut first-keystroke="control windows UP" />
+    <keyboard-shortcut first-keystroke="control WINDOWS UP" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="control ENTER" />
-    <keyboard-shortcut first-keystroke="windows N" />
+    <keyboard-shortcut first-keystroke="WINDOWS N" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="control TAB" />
-    <keyboard-shortcut first-keystroke="control windows alt TAB" />
+    <keyboard-shortcut first-keystroke="control WINDOWS alt TAB" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift windows CLOSE_BRACKET" />
-    <keyboard-shortcut first-keystroke="windows alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="WINDOWS alt RIGHT" />
   </action>
   <action id="OpenDirectoryProject">
-    <keyboard-shortcut first-keystroke="shift windows O" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS O" />
   </action>
   <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="windows O" />
+    <keyboard-shortcut first-keystroke="WINDOWS O" />
   </action>
   <action id="OptimizeImports" />
   <action id="OverrideMethods" />
   <action id="PasteMultiple">
-    <keyboard-shortcut first-keystroke="shift windows V" />
-    <keyboard-shortcut first-keystroke="shift windows INSERT" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS V" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS INSERT" />
     <keyboard-shortcut first-keystroke="shift control V" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift control TAB" />
-    <keyboard-shortcut first-keystroke="shift control windows alt TAB" />
+    <keyboard-shortcut first-keystroke="shift control WINDOWS alt TAB" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift windows OPEN_BRACKET" />
-    <keyboard-shortcut first-keystroke="windows alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="WINDOWS alt LEFT" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="windows alt L" />
+    <keyboard-shortcut first-keystroke="WINDOWS alt L" />
     <keyboard-shortcut first-keystroke="control alt L" />
   </action>
   <action id="RenameElement">
@@ -280,25 +280,25 @@
     <keyboard-shortcut first-keystroke="alt F8" />
   </action>
   <action id="Run">
-    <keyboard-shortcut first-keystroke="windows F8" />
+    <keyboard-shortcut first-keystroke="WINDOWS F8" />
     <keyboard-shortcut first-keystroke="shift F10" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift windows F8" />
+    <keyboard-shortcut first-keystroke="shift WINDOWS F8" />
     <keyboard-shortcut first-keystroke="shift control F10" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="control windows alt DOWN" />
+    <keyboard-shortcut first-keystroke="control WINDOWS alt DOWN" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="control windows alt UP" />
+    <keyboard-shortcut first-keystroke="control WINDOWS alt UP" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="alt F9" />
     <keyboard-shortcut first-keystroke="F7" />
   </action>
   <action id="StepOut">
-    <keyboard-shortcut first-keystroke="windows alt F10" />
+    <keyboard-shortcut first-keystroke="WINDOWS alt F10" />
     <keyboard-shortcut first-keystroke="shift F8" />
   </action>
   <action id="StepOver">
@@ -309,10 +309,9 @@
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="control windows alt H" />
+    <keyboard-shortcut first-keystroke="control WINDOWS alt H" />
   </action>
   <action id="WelcomeScreen.ReopenRecent">
-    <keyboard-shortcut first-keystroke="windows alt O" />
+    <keyboard-shortcut first-keystroke="WINDOWS alt O" />
   </action>
 </keymap>
-
